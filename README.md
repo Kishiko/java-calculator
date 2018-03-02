@@ -1,5 +1,5 @@
 # Java Calculator
-Ce projet a été écrit à l'origine en utilisant **un simple éditeur de texte** (Sublime Text 2), mais je l'ai migré vers NetBeans tout en conservant le hardcode. Et donc **le backend et le frontend ont été du pur *hand coding***. C'était un travail pratique que j'avais réalisé en Janvier 2016 dans le cours de **Java Standard Edition** et qu'il fallait remettre dans deux semaines.
+Ce projet a été écrit à l'origine en utilisant **un simple éditeur de texte** (Sublime Text 2), mais je l'ai migré vers NetBeans tout en conservant le *hand coding*. Et donc **le backend et le frontend ont été du pur *hand coding***. C'était un travail pratique que j'avais réalisé en Janvier 2016 dans le cours de **Java Standard Edition** et qu'il fallait remettre dans deux semaines.
 
 Cette calculatrice est simple avec un code facile pour aider les novices à apprendre comment créer un programme de calculatrice avec Java.
 
